@@ -1,0 +1,57 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.autoowners.capstone.safenav.Settings">
+
+    <!--
+    <TextView
+        android:text="Audible Alers?"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <RadioGroup xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <RadioButton android:id="@+id/radio_audibleAlerts"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Yes"
+            android:onClick="onRadioButtonClicked"/>
+        <RadioButton android:id="@+id/radio_noAudibleAlerts"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="No"
+            android:onClick="onRadioButtonClicked"/>
+    </RadioGroup>
+    <TextView
+        android:text="Speeding Alerts"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <RadioGroup xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <RadioButton android:id="@+id/radio_noSpeedAlert"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="No Speeding Alerts"
+            android:onClick="onRadioButtonClicked"/>
+        <RadioButton android:id="@+id/radio_fiveSpeedAlert"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Five MPH"
+            android:onClick="onRadioButtonClicked"/>
+        <RadioButton android:id="@+id/radio_tenSpeedAlert"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Ten MPH"
+            android:onClick="onRadioButtonClicked"/>
+    </RadioGroup>-->
+
+</LinearLayout>
